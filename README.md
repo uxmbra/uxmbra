@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uxmbra / Trent
-- 👀 I’m interested in Homelabs, PC Building, Windows Optimization, FPS Games and Aim training
-- 🌱 I’m currently learning Azure, Linux virtualizations & Networking
-- 📫 Best way to reach me is Discord [Uxmbra]
+- 👀 Core Interests: Homelab infrastructure, custom PC building, Windows performance tuning, and competitive FPS gaming & aim training
+- 🌱 Currently Learning: Microsoft Azure, advanced Linux virtualization, and network engineering
+- 📫 Contact: Discord – Uxmbra
 
 👉 Current Setup 👈
 
