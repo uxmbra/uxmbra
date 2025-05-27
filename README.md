@@ -11,12 +11,12 @@
 
 - Services I self-host: 
 
-TrueNAS file-storage and SMB sharing
-Docker container management through Portainer
-UniFi network management
-Trilium advanced note-taking platform
-Automated backups and container updates
-System monitoring and real-time alerts
+- TrueNAS file-storage and SMB sharing
+- Docker container management through Portainer
+- UniFi network management
+- Trilium advanced note-taking platform
+- Automated backups and container updates
+- System monitoring and real-time alerts
 <!---
 uxmbra/uxmbra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
