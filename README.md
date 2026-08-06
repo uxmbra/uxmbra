@@ -1,23 +1,51 @@
-- 👋 Hi, I’m @uxmbra / Trent
-- 👀 Core Interests: Homelab infrastructure, custom PC building, Windows performance tuning, and competitive FPS gaming & aim training
-- 🌱 Currently Learning: Microsoft Azure, advanced Linux virtualization, and network engineering
-- 📫 Contact: Discord – Uxmbra
+<div align="center">
 
-👉 Current Setup 👈
+# UXMBRA
 
-- 🎮 Gaming PC > AMD 9800X3D > B650 Tomahawk Wifi > 32GB DDR5 7200MHZ CL34 > AMD RX 7900XTX
-- 💻 Laptop > MSI VECTOR GP68HX 13VG > i7 13700HX > 32GB 5200MHZ > RTX 4070
-- 🖥️ Server > x2 Intel Xeon E5-2695 v4 > 128 GB 2133 MHZ ECC > SuperMicro X10DAX > RTX 2060 > Node 2: i7 13700H > 4060 > 16GB 4800MHZ
+**Developer. Content Creator. Aimer.**
 
-- Services I self-host: 
+*Building things, breaking servers, and grinding aim trainers.*
 
-- TrueNAS file-storage and SMB sharing
-- Docker container management through Portainer
-- UniFi network management
-- Trilium advanced note-taking platform
-- Automated backups and container updates
-- System monitoring and real-time alerts
-<!---
-uxmbra/uxmbra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Profile Views](https://komarev.com/ghpvc/?username=uxmbra&color=7c5cff&style=flat-square&label=views)
+[![Discord](https://img.shields.io/badge/Discord-Uxmbra-7c5cff?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/vexoragaming)
+
+</div>
+
+---
+
+### 👋 Hi, I'm @uxmbra / Trent
+
+### 👀 Core Interests
+- 🏠 Homelab infrastructure
+- 🖥️ Custom PC building
+- ⚡ Windows performance tuning
+- 🎯 Competitive FPS gaming & aim training
+
+### 🌱 Currently Learning
+- ☁️ Microsoft Azure
+- 🐧 Advanced Linux virtualization
+- 🌐 Network engineering
+
+### 📫 Contact
+Discord — **Uxmbra**
+
+---
+
+### 🛠️ Services I Self-Host
+
+| Service | Purpose |
+|---|---|
+| **TrueNAS** | File storage & SMB sharing |
+| **Arcane & Portainer** | Docker container management |
+| **UniFi** | Network management |
+| **Trilium** | Advanced note-taking platform |
+| **Watchtower** | Automated backups & container updates |
+| **Beszel / Grafana** | System monitoring & real-time alerts |
+
+---
+
+<div align="center">
+
+*grinding servers by day, aim trainers by night*
+
+</div>
