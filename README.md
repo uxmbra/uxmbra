@@ -15,6 +15,9 @@
 
 ### 👋 Hi, I'm @uxmbra / Trent
 
+### 🗂️ Current Projects
+- 🖥️ Vexora Gaming [FiveM Legacy / Enhanced] - Owner / Developer
+
 ### 👀 Core Interests
 - 🏠 Homelab infrastructure
 - 🖥️ Custom PC building
