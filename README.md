@@ -17,6 +17,7 @@
 
 ### 🗂️ Current Projects
 - 🖥️ Vexora Gaming [FiveM Legacy / Enhanced] - Owner / Developer
+- 📙 Zephyr RP - City Guide - Owner / Maintainer
 
 ### 👀 Core Interests
 - 🏠 Homelab infrastructure
