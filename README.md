@@ -51,11 +51,23 @@ A Windows app for saving Twitch VODs, highlights and clips at the **best quality
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-### 🎮 Vexora Gaming — FiveM Roleplay Server
+### 📥 YT Downloader
 
-I own and develop **Vexora Gaming**, a serious-RP GTA V roleplay server with custom scripts, custom gangs and more. Built on the Qbox and Overextended frameworks, with a hand-rolled deploy pipeline that backs up the database before every update and can roll back in one step.
+A simple Windows app for saving YouTube videos as **MP4 (up to 4K)** or **MP3 (320 kbps)**, or both at once. Just copy a link and it starts downloading.
+
+✨ Download queue · whole playlists · resumes after closing · keeps itself up to date
+
+[![Download](https://img.shields.io/github/v/release/uxmbra/yt-downloader?style=for-the-badge&label=Download&color=7c5cff&logo=windows&logoColor=white)](https://github.com/uxmbra/yt-downloader/releases/latest)
+[![Repo](https://img.shields.io/badge/Repo-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uxmbra/yt-downloader)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Vexora Gaming
+
+I own and develop **Vexora Gaming**, a serious-RP GTA V (FiveM) roleplay server with custom scripts, custom gangs and more. Built on the Qbox and Overextended frameworks, with a deploy pipeline that backs up the database before every update and can roll back in one step.
 
 [![Join the Discord](https://img.shields.io/badge/Join_the_Discord-7c5cff?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vexoragaming)
 
@@ -70,6 +82,7 @@ I own and develop **Vexora Gaming**, a serious-RP GTA V roleplay server with cus
 **Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
