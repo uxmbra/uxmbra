@@ -51,7 +51,7 @@ A Windows app for saving Twitch VODs, highlights and clips at the **best quality
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### 📥 YT Downloader
 
@@ -61,15 +61,6 @@ A simple Windows app for saving YouTube videos as **MP4 (up to 4K)** or **MP3 (3
 
 [![Download](https://img.shields.io/github/v/release/uxmbra/yt-downloader?style=for-the-badge&label=Download&color=7c5cff&logo=windows&logoColor=white)](https://github.com/uxmbra/yt-downloader/releases/latest)
 [![Repo](https://img.shields.io/badge/Repo-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uxmbra/yt-downloader)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎮 Vexora Gaming
-
-I own and develop **Vexora Gaming**, a serious-RP GTA V (FiveM) roleplay server with custom scripts, custom gangs and more. Built on the Qbox and Overextended frameworks, with a deploy pipeline that backs up the database before every update and can roll back in one step.
-
-[![Join the Discord](https://img.shields.io/badge/Join_the_Discord-7c5cff?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/vexoragaming)
 
 </td>
 </tr>
